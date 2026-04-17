@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1a2421,50:1a2421,100:1a2421&text=Chirag%20Tyagi!&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=70&section=header&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descAlign=50&descSize=25&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0b6623,50:0b6623,100:0b6623&text=Chirag%20Tyagi!&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=70&section=header&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descAlign=50&descSize=25&animation=fadeIn" width="100%"/>
 </p>
 
 <div align="center">
@@ -101,5 +101,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2421,50:1a2421,100:1a2421&height=150&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b6623,50:0b6623,100:0b6623&height=150&section=footer&animation=fadeIn" width="100%"/>
 </p>
